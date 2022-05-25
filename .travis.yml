@@ -1,16 +1,11 @@
 lenguage:java
 jdk:
-  - openjdk11
+  - openjdk8
   
-branches:
-  only:
-    - master
-script: 
-  - C:\Travis\sale-system-app\ mvnw clean install 
+script: "./mvnw clean install"
+
 notifications:
-  email:
-    recipients:
-      - pcsimleo@upc.edu.pe
+  email: pcsimleo@upc.edu.pe
   
 before_install:
   -chmod +x mvnw 
