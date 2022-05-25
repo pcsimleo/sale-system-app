@@ -1,0 +1,14 @@
+pe\edu\upc\sistemaventas\controller\VentasController.class
+pe\edu\upc\sistemaventas\model\ProductoVendido.class
+pe\edu\upc\sistemaventas\ServletInitializer.class
+pe\edu\upc\sistemaventas\controller\PrincipalController.class
+pe\edu\upc\sistemaventas\SistemaVentasSpringApplication.class
+pe\edu\upc\sistemaventas\repo\ProductosRepository.class
+pe\edu\upc\sistemaventas\controller\VenderController.class
+pe\edu\upc\sistemaventas\model\Venta.class
+pe\edu\upc\sistemaventas\repo\ProductosVendidosRepository.class
+pe\edu\upc\sistemaventas\controller\ProductosController.class
+pe\edu\upc\sistemaventas\model\ProductoParaVender.class
+pe\edu\upc\sistemaventas\util\Utiles.class
+pe\edu\upc\sistemaventas\model\Producto.class
+pe\edu\upc\sistemaventas\repo\VentasRepository.class
